@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{144:function(n,e,t){"use strict";t.r(e);var a=t(9),c=(t(0),t(149)),u=t(148);e.default=function(){return Object(a.a)(c.a,null,Object(a.a)("div",null,"Welcome to VSLA meetings"),Object(a.a)(u.a,null))}}}]);
+//# sourceMappingURL=component---src-pages-meetings-js-0221ce6679b1367992d4.js.map

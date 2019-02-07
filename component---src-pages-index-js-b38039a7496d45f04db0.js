@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{143:function(n,e,t){"use strict";t.r(e);var u=t(9),a=(t(0),t(149)),c=t(148);e.default=function(){return Object(u.a)(a.a,null,Object(u.a)("div",null,"Welcome to VSLA fund box"),Object(u.a)(c.a,null))}}}]);
+//# sourceMappingURL=component---src-pages-index-js-b38039a7496d45f04db0.js.map
