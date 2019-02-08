@@ -9,8 +9,9 @@
     "128": "/icons/icon128x128.png"
   },
   "developer": {
-    "name": "Your name",
-    "url": "http://example.com"
+    "name": "Jose Cisneros",
+    "url": "https://josl.github.io/vsla"
   },
-  "fullscreen": "true"
+  "fullscreen": "true",
+  "display": "fullscreen"
 }
